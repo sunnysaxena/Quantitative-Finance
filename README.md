@@ -1,6 +1,6 @@
 # Awesome Quant
 
-A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance).
+A curated list of insanely awesome libraries, packages, and resources for Quants (Quantitative Finance).
 
 [![](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -8,18 +8,10 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 
 - [Python](#python)
 - [R](#r)
-- [Matlab](#matlab)
 - [Julia](#julia)
 - [Java](#java)
-- [JavaScript](#javascript)
-- [Haskell](#haskell)
-- [Scala](#scala)
-- [Ruby](#ruby)
-- [Elixir/Erlang](#elixirerlang)
 - [Golang](#golang)
 - [CPP](#cpp)
-- [CSharp](#csharp)
-- [Rust](#rust)
 - [Frameworks](#frameworks)
 - [Reproducing Works](#reproducing-works)
 
@@ -196,7 +188,7 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 - [coinmarketcap](https://github.com/barnumbirr/coinmarketcap) - Python API for coinmarketcap.
 - [after-hours](https://github.com/datawrestler/after-hours) - Obtain pre market and after hours stock prices for a given symbol.
 - [bronto-python](https://pypi.org/project/bronto-python/) - Bronto API Integration for Python.
-- [pytdx](https://github.com/rainx/pytdx) - Python Interface for retrieving chinese stock realtime quote data from TongDaXin Nodes.
+- [pytdx](https://github.com/rainx/pytdx) - Python Interface for retrieving Chinese stock realtime quote data from TongDaXin Nodes.
 - [pdblp](https://github.com/matthewgilbert/pdblp) - A simple interface to integrate pandas and the Bloomberg Open API.
 - [tiingo](https://github.com/hydrosquall/tiingo-python) - Python interface for daily composite prices/OHLC/Volume + Real-time News Feeds, powered by the Tiingo Data Platform.
 - [iexfinance](https://github.com/addisonlynch/iexfinance) - Python Interface for retrieving real-time and historical prices and equities data from The Investor's Exchange.
@@ -208,7 +200,7 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 - [investpy](https://github.com/alvarobartt/investpy) - Financial Data Extraction from Investing.com with Python! <https://investpy.readthedocs.io/>
 - [yliveticker](https://github.com/yahoofinancelive/yliveticker) - Live stream of market data from Yahoo Finance websocket.
 - [bbgbridge](https://github.com/ran404/bbgbridge) - Easy to use Bloomberg Desktop API wrapper for Python.
-- [alpha_vantage](https://github.com/RomelTorres/alpha_vantage) - A python wrapper for Alpha Vantage API for financial data.
+- [alpha_vantage](https://github.com/RomelTorres/alpha_vantage) - A Python wrapper for Alpha Vantage API for financial data.
 - [FinanceDataReader](https://github.com/FinanceData/FinanceDataReader) - Open Source Financial data reader for U.S, Korean, Japanese, Chinese, Vietnamese Stocks
 - [pystlouisfed](https://github.com/TomasKoutek/pystlouisfed) - Python client for Federal Reserve Bank of St. Louis API - FRED, ALFRED, GeoFRED and FRASER.
 - [python-bcb](https://github.com/wilsonfreitas/python-bcb) - Python interface to Brazilian Central Bank web services.
@@ -221,8 +213,8 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 - [xlsxwriter](https://xlsxwriter.readthedocs.io/) - Write files in the Excel 2007+ XLSX file format.
 - [xlwt](https://github.com/python-excel/xlwt) - Library to create spreadsheet files compatible with MS Excel 97/2000/XP/2003 XLS files, on any platform.
 - [DataNitro](https://datanitro.com/) - DataNitro also offers full-featured Python-Excel integration, including UDFs. Trial downloads are available, but users must purchase a license.
-- [xlloop](http://xlloop.sourceforge.net) - XLLoop is an open source framework for implementing Excel user-defined functions (UDFs) on a centralised server (a function server).
-- [expy](http://www.bnikolic.co.uk/expy/expy.html) - The ExPy add-in allows easy use of Python directly from within an Microsoft Excel spreadsheet, both to execute arbitrary code and to define new Excel functions.
+- [xlloop](http://xlloop.sourceforge.net) - XLLoop is an open-source framework for implementing Excel user-defined functions (UDFs) on a centralized server (a function server).
+- [expy](http://www.bnikolic.co.uk/expy/expy.html) - The ExPy add-in allows easy use of Python directly from within a Microsoft Excel spreadsheet, both to execute arbitrary code and to define new Excel functions.
 - [pyxll](https://www.pyxll.com) - PyXLL is an Excel add-in that enables you to extend Excel using nothing but Python code.
 
 ### Visualization
@@ -334,7 +326,6 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 - [timeDate](https://cran.r-project.org/web/packages/timeDate/index.html) - Chronological and Calendar Objects
 - [bizdays](https://github.com/wilsonfreitas/R-bizdays) - Business days calculations and utilities
 
-## Matlab
 
 ### FrameWorks
 
@@ -363,38 +354,11 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 - [DRIP](https://lakshmidrip.github.io/DRIP) - Fixed Income, Asset Allocation, Transaction Cost Analysis, XVA Metrics Libraries.
 - [ta4j](https://github.com/ta4j/ta4j) - A Java library for technical analysis.
 
-## JavaScript
-
-- [finance.js](https://github.com/ebradyjobory/finance.js) - A JavaScript library for common financial calculations.
-- [portfolio-allocation](https://github.com/lequant40/portfolio_allocation_js) - PortfolioAllocation is a JavaScript library designed to help constructing financial portfolios made of several assets: bonds, commodities, cryptocurrencies, currencies, exchange traded funds (ETFs), mutual funds, stocks...
-- [Ghostfolio](https://github.com/ghostfolio/ghostfolio) - Wealth management software to keep track of financial assets like stocks, ETFs or cryptocurrencies and make solid, data-driven investment decisions.
-- [IndicatorTS](https://github.com/cinar/indicatorts) - Indicator is a TypeScript module providing various stock technical analysis indicators, strategies, and a backtest framework for trading.
-- [ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges.
 
 ### Data Visualization
 
 - [QUANTAXIS_Webkit](https://github.com/yutiansut/QUANTAXIS_Webkit) - An awesome visualization center based on quantaxis.
 
-## Haskell
-
-- [quantfin](https://github.com/boundedvariation/quantfin) - quant finance in pure haskell.
-- [Haxcel](https://github.com/MarcusRainbow/Haxcel) - Excel Addin for Haskell.
-- [Ffinar](https://github.com/MarcusRainbow/Ffinar) - A financial maths library in Haskell.
-
-## Scala
-
-- [QuantScale](https://github.com/choucrifahed/quantscale) - Scala Quantitative Finance Library.
-- [Scala Quant](https://github.com/frankcash/Scala-Quant) - Scala library for working with stock data from IFTTT recipes or Google Finance.
-
-## Ruby
-
-- [Jiji](https://github.com/unageanu/jiji2) - Open Source Forex algorithmic trading framework using OANDA REST API.
-
-## Elixir/Erlang
-
-- [Tai](https://github.com/fremantle-capital/tai) - Open Source composable, real time, market data and trade execution toolkit.
-- [Workbench](https://github.com/fremantle-industries/workbench) - From Idea to Execution - Manage your trading operation across a globally distributed cluster
-- [Prop](https://github.com/fremantle-industries/prop) - An open and opinionated trading platform using productive & familiar open source libraries and tools for strategy research, execution and operation.
 
 ## Golang
 
@@ -420,16 +384,6 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
   - [ta-lib-python](https://github.com/TA-Lib/ta-lib-python)
   - [ta-lib](https://github.com/TA-Lib/ta-lib)
 - [Portfolio Optimizer](https://portfoliooptimizer.io/) - Portfolio Optimizer is a Web API for portfolio analysis and optimization.
-
-## CSharp
-
-- [QuantConnect](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage.
-- [StockSharp](https://github.com/StockSharp/StockSharp) - Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, crypto, bitcoins, and options).
-- [TDAmeritrade.DotNetCore](https://github.com/NVentimiglia/TDAmeritrade.DotNetCore) - Free, open-source .NET Client for the TD Ameritrade Trading Platform. Helps developers integrate TD Ameritrade API into custom trading solutions.
-
-## Rust
-
-- [QuantMath](https://github.com/MarcusRainbow/QuantMath) - Financial maths library for risk-neutral pricing and risk
 
 ## Reproducing Works, Training & Books
 
