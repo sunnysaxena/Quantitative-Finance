@@ -21,8 +21,8 @@ A curated list of insanely awesome libraries, packages, and resources for Quants
 
 - [numpy](https://www.numpy.org) - NumPy is the fundamental package for scientific computing with Python.
 - [scipy](https://www.scipy.org) - SciPy (pronounced “Sigh Pie”) is a Python-based ecosystem of open-source software for mathematics, science, and engineering.
-- [pandas](https://pandas.pydata.org) - pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
-- [quantdsl](https://github.com/johnbywater/quantdsl) - Domain specific language for quantitative analytics in finance and trading.
+- [pandas](https://pandas.pydata.org) - pandas is an open-source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
+- [quantdsl](https://github.com/johnbywater/quantdsl) - Domain-specific language for quantitative analytics in finance and trading.
 - [statistics](https://docs.python.org/3/library/statistics.html) - Builtin Python library for all basic statistical calculations.
 - [sympy](https://www.sympy.org/) - SymPy is a Python library for symbolic mathematics.
 - [pymc3](https://docs.pymc.io/) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Theano.
@@ -40,15 +40,15 @@ A curated list of insanely awesome libraries, packages, and resources for Quants
 - [hasura/base-python-dash](https://platform.hasura.io/hub/projects/hasura/base-python-dash) - Hasura quickstart to deploy Dash framework. Written on top of Flask, Plotly.js, and React.js, Dash is ideal for building data visualization apps with highly custom user interfaces in pure Python.
 - [hasura/base-python-bokeh](https://platform.hasura.io/hub/projects/hasura/base-python-bokeh) - Hasura quickstart to visualize data with bokeh library.
 - [pysabr](https://github.com/ynouri/pysabr) - SABR model Python implementation.
-- [FinancePy](https://github.com/domokane/FinancePy) - A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.
+- [FinancePy](https://github.com/domokane/FinancePy) - A Python Finance Library that focuses on the pricing and risk management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.
 - [gs-quant](https://github.com/goldmansachs/gs-quant) - Python toolkit for quantitative finance
 - [willowtree](https://github.com/federicomariamassari/willowtree) - Robust and flexible Python implementation of the willow tree lattice for derivatives pricing.
 - [financial-engineering](https://github.com/federicomariamassari/financial-engineering) - Applications of Monte Carlo methods to financial engineering projects, in Python.
 - [optlib](https://github.com/dbrojas/optlib) - A library for financial options pricing written in Python.
 - [tf-quant-finance](https://github.com/google/tf-quant-finance) - High-performance TensorFlow library for quantitative finance.
 - [Q-Fin](https://github.com/RomanMichaelPaolucci/Q-Fin) - A Python library for mathematical finance.
-- [Quantsbin](https://github.com/quantsbin/Quantsbin) - Tools for pricing and plotting of vanilla option prices, greeks and various other analysis around them.
-- [finoptions](https://github.com/bbcho/finoptions-dev) - Complete python implementation of R package fOptions with partial implementation of fExoticOptions for pricing various options.
+- [Quantsbin](https://github.com/quantsbin/Quantsbin) - Tools for pricing and plotting of vanilla option prices, greeks, and various other analyses around them.
+- [finoptions](https://github.com/bbcho/finoptions-dev) - Complete Python implementation of R package fOptions with partial implementation of fExoticOptions for pricing various options.
 
 ### Indicators
 
