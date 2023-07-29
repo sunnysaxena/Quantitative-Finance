@@ -224,6 +224,12 @@ A curated list of insanely awesome libraries, packages, and resources for Quants
 - [finplot](https://github.com/highfestiva/finplot) - Performant and effortless finance plotting for Python.
 - [finvizfinance](https://github.com/lit26/finvizfinance) - Finviz analysis python library.
 
+### Financial News Extractor
+
+- [news-fetch](https://santhoshse7en.github.io/news-fetch/) - news-fetch is an open-source, easy-to-use news crawler that extracts structured information from almost any news website.
+- [news-please](https://github.com/fhamborg/news-please) - news-please is an open-source, easy-to-use news crawler that extracts structured information from almost any news website.
+  
+
 ## R
 
 ### Numerical Libraries & Data Structures
